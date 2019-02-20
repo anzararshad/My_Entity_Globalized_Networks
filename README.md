@@ -19,3 +19,5 @@ then you can use that data to do a PCA and visualize it..
   <li> [batch_size]=default givin as 128 according to assumption</li>
 </ul> </li>  
 </ol>
+
+## Note: I have attached sample Globalized_Network_Design.ipynb file you can use It For your Refereces.
